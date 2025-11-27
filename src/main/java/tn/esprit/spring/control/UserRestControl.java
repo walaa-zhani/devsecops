@@ -24,7 +24,7 @@ public class UserRestControl {
 		return userService.retrieveAllUsers();
 		//return list;
 	}
- 
+ //ttrtr
 	// http://localhost:????/timesheet-devops/retrieve-user/{user-id}
 	@GetMapping("/retrieve-user/{user-id}")
 	public User retrieveUser(@PathVariable("user-id") String userId) {
