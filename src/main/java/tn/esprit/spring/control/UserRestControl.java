@@ -10,6 +10,36 @@ import tn.esprit.spring.entities.User;
 import tn.esprit.spring.services.IUserService;
 
 // userRestControl
+// userRestControl
+// userRestControl
+// userRestControl
+// userRestControl
+// userRestControl
+// userRestControl
+// userRestControl
+// userRestControl
+// userRestControl
+// userRestControl
+// userRestControl
+// userRestControl
+// userRestControl
+
+// userRestControl
+// userRestControl
+// userRestControl
+// userRestControl// userRestControl
+// userRestControl
+// userRestControl
+// userRestControl
+// userRestControl// userRestControl
+// userRestControl
+// userRestControl
+// userRestControl
+// userRestControl// userRestControl
+// userRestControl
+// userRestControl
+// userRestControl
+// userRestControl
 @RestController // = @Controller + @ResponseBody 
 @RequestMapping("/user")
 public class UserRestControl {
@@ -24,8 +54,8 @@ public class UserRestControl {
 		return userService.retrieveAllUsers();
 		//return list;
 	}
- //ttrtr
-	// http://localhost:????/timesheet-devops/retrieve-user/{user-id}
+ //ttrtr4444ekljfgsemrlg;ùshjke
+	// http://localhost:????/timesheet-devops/retrieve-user/{user-id}xxxxxxxxx
 	@GetMapping("/retrieve-user/{user-id}")
 	public User retrieveUser(@PathVariable("user-id") String userId) {
 		return userService.retrieveUser(userId);
