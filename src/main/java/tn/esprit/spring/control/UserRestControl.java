@@ -90,6 +90,13 @@ import tn.esprit.spring.services.IUserService;
 // userRestControl
 // userRestControl
 // userRestControl
+// userRestControl// userRestControl
+// userRestControl
+// userRestControl
+// userRestControl
+// userRestControl// userRestControl
+// userRestControl
+// userRestControl
 @RestController // = @Controller + @ResponseBody 
 @RequestMapping("/user")
 public class UserRestControl {
