@@ -10,7 +10,7 @@ import tn.esprit.spring.entities.User;
 import tn.esprit.spring.services.IUserService;
 
 
-//ggggggggggggggggggggggg
+//aziz
 @RestController // = @Controller + @ResponseBody 
 @RequestMapping("/user")
 public class UserRestControl {
