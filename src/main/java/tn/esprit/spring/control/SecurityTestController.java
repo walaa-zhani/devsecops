@@ -30,6 +30,10 @@ public class SecurityTestController {
 
    // ❌ TEST : Secrets exposés
    // Variables sensibles en dur
+      // ❌ TEST : Secrets exposés
+   // Variables sensibles en dur
+      // ❌ TEST : Secrets exposés
+   // Variables sensibles en dur
    private String dbPassword = "admin123"; // ❌ hardcoded password
    private String apiKey = "sk_live_1234567890abcdef"; // ❌ hardcoded API key
 
